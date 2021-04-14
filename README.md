@@ -1,5 +1,5 @@
-#Fire and Air Pollution Visualization
-##CSE 6242 Final Project
+# Fire and Air Pollution Visualization
+## CSE 6242 Final Project
 
 ### DESCRIPTION
 The package contains two folders DOC/ and CODE/. The DOC/ directory contains our final report and team poster in PDF format.
